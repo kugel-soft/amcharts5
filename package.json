@@ -1,0 +1,79 @@
+{
+  "_from": "@amcharts/amcharts5@5.8.2",
+  "_id": "@amcharts/amcharts5@5.8.2",
+  "_inBundle": false,
+  "_integrity": "sha512-mf/ob2MsXB6fK29OEX2rZDMBPMb1VwbCbaluKodyj0LM/DacBp/g8xvkYmKMM8zhR15tDqbjQz0W8xfb0bsLfQ==",
+  "_location": "/@amcharts/amcharts5",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@amcharts/amcharts5@5.8.2",
+    "name": "@amcharts/amcharts5",
+    "escapedName": "@amcharts%2famcharts5",
+    "scope": "@amcharts",
+    "rawSpec": "5.8.2",
+    "saveSpec": null,
+    "fetchSpec": "5.8.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@amcharts/amcharts5/-/amcharts5-5.8.2.tgz",
+  "_shasum": "4cd0ccc933730ed0b7bb903a77ee8d588aa80c21",
+  "_spec": "@amcharts/amcharts5@5.8.2",
+  "_where": "C:\\kprojetos\\Erpweb\\kugel-web\\src\\main\\webapp",
+  "author": {
+    "name": "amCharts",
+    "email": "contact@amcharts.com",
+    "url": "https://www.amcharts.com/"
+  },
+  "bugs": {
+    "url": "https://www.amcharts.com/support/",
+    "email": "contact@amcharts.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@types/d3": "^7.0.0",
+    "@types/d3-chord": "^3.0.0",
+    "@types/d3-hierarchy": "3.1.1",
+    "@types/d3-sankey": "^0.11.1",
+    "@types/d3-shape": "^3.0.0",
+    "@types/geojson": "^7946.0.8",
+    "@types/polylabel": "^1.0.5",
+    "@types/svg-arc-to-cubic-bezier": "^3.2.0",
+    "d3": "^7.0.0",
+    "d3-chord": "^3.0.0",
+    "d3-geo": "^3.0.0",
+    "d3-sankey": "^0.12.3",
+    "d3-selection": "^3.0.0",
+    "d3-transition": "^3.0.0",
+    "d3-voronoi-treemap": "^1.1.2",
+    "flatpickr": "^4.6.9",
+    "markerjs2": "^2.29.4",
+    "pdfmake": "^0.2.2",
+    "polylabel": "^1.1.0",
+    "seedrandom": "^3.0.5",
+    "svg-arc-to-cubic-bezier": "^3.2.0",
+    "tslib": "^2.2.0"
+  },
+  "deprecated": false,
+  "description": "amCharts 5",
+  "homepage": "https://www.amcharts.com/",
+  "keywords": [
+    "amcharts",
+    "javascript",
+    "charts",
+    "typescript"
+  ],
+  "license": "SEE LICENSE IN LICENSE",
+  "main": "index.js",
+  "module": "index.js",
+  "name": "@amcharts/amcharts5",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amcharts/amcharts5.git"
+  },
+  "sideEffects": false,
+  "version": "5.8.2"
+}
