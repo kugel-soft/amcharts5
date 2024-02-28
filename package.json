@@ -1,28 +1,4 @@
 {
-  "_from": "@amcharts/amcharts5@5.8.2",
-  "_id": "@amcharts/amcharts5@5.8.2",
-  "_inBundle": false,
-  "_integrity": "sha512-mf/ob2MsXB6fK29OEX2rZDMBPMb1VwbCbaluKodyj0LM/DacBp/g8xvkYmKMM8zhR15tDqbjQz0W8xfb0bsLfQ==",
-  "_location": "/@amcharts/amcharts5",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "version",
-    "registry": true,
-    "raw": "@amcharts/amcharts5@5.8.2",
-    "name": "@amcharts/amcharts5",
-    "escapedName": "@amcharts%2famcharts5",
-    "scope": "@amcharts",
-    "rawSpec": "5.8.2",
-    "saveSpec": null,
-    "fetchSpec": "5.8.2"
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/@amcharts/amcharts5/-/amcharts5-5.8.2.tgz",
-  "_shasum": "4cd0ccc933730ed0b7bb903a77ee8d588aa80c21",
-  "_spec": "@amcharts/amcharts5@5.8.2",
-  "_where": "C:\\kprojetos\\Erpweb\\kugel-web\\src\\main\\webapp",
   "author": {
     "name": "amCharts",
     "email": "contact@amcharts.com",
